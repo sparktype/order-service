@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="io.sparkwares.cloudnative" externalSystemModuleVersion="0.0.1-SNAPSHOT" linkedProjectId="order-service" linkedProjectPath="$MODULE_DIR$" rootProjectPath="$MODULE_DIR$" />
-  <component name="sonarModuleSettings">
-    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
-    <option name="serverName" value="&lt;PROJECT&gt;" />
-  </component>
-</module>
